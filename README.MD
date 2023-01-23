@@ -4,7 +4,7 @@
 |:----------------|:--------:|:-----:|:-----:|
 | Redeklaracja    |    ok    |  no   |  no   |   
 | Reinicjalizacja |    ok    |  ok   |  no   |   
-| Hosting         |    ok    |  no   |  no   |   
+| Hoisting        |    ok    |  no   |  no   |   
 | Zasięg          | function | block | block |
 
 ## Historia asynchroniczności w JS:

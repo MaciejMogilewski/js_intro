@@ -153,4 +153,4 @@ const countUniqueHobbies2 = (persons) => new Set(persons
     .map((person) => person.hobbies)
     .flat()).size;
 
-console.log(countUniqueHobbies2(data));
+// console.log(countUniqueHobbies2(data));
